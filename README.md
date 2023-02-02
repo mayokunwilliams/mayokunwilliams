@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayokunwilliams
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data scienctist, pythonistas
+- 👀 I’m interested Front-End Engineering
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to collaborate on Frontend engineers, Web dev, graphic designers
 - 📫 How to reach me (williamssamuel231@gmail.com, whatsapp_ 07086894727)
 
 <!---
