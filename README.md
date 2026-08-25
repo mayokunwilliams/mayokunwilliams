@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayokunwilliams
 - 👀 I’m interested Front-End Engineering
-- Graphic/Produc Designer
-- 🌱 I’m currently learning ReactJs
+- Brand Designer/Web Developper
+- 🌱 ReactJs & more...
 - 💞️ I’m looking to collaborate on Frontend engineers, Web dev, graphic designers
 - 📫 How to reach me (williamssamuel231@gmail.com, whatsapp_ 07086894727)
 
