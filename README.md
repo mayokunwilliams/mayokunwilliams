@@ -3,7 +3,7 @@
 - Brand Designer/Web Developper
 - 🌱 ReactJs & more...
 - 💞️ I’m looking to collaborate on Frontend engineers, Web dev, graphic designers
-- 📫 How to reach me (williamssamuel231@gmail.com, whatsapp_ 07086894727)
+- 📫 How to reach me (williamssamuel231@gmail.com, whatsapp_ 09079417524)
 
 <!---
 mayokunwilliams/mayokunwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
